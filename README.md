@@ -1,6 +1,5 @@
 phpfox-customfeed
 =================
-[Installation Guide](https://github.com/globalmediasoft/phpfox-customfeed/wiki/Installation)
-
-Included some minor features for feeds:
+- [Installation Guide](https://github.com/globalmediasoft/phpfox-customfeed/wiki/Installation)
+- Features:
  + Edit own status feed
