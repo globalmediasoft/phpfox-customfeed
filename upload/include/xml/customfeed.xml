@@ -1,0 +1,17 @@
+<product>
+	<data>
+		<product_id>customfeed</product_id>
+		<is_core>0</is_core>
+		<title>Customized Feeds</title>
+		<description>Include some small customization for feeds</description>
+		<version>3.0.1</version>
+		<latest_version></latest_version>
+		<last_check>1410765053</last_check>
+		<is_active>1</is_active>
+		<url></url>
+		<url_version_check></url_version_check>
+	</data>
+	<modules>
+		<module_id>customfeed</module_id>
+	</modules>
+</product>
